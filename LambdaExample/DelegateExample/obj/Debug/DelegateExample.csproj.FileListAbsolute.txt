@@ -1,0 +1,6 @@
+C:\KCGitHub\C#\LambdaExample\DelegateExample\bin\Debug\DelegateExample.exe.config
+C:\KCGitHub\C#\LambdaExample\DelegateExample\bin\Debug\DelegateExample.exe
+C:\KCGitHub\C#\LambdaExample\DelegateExample\bin\Debug\DelegateExample.pdb
+C:\KCGitHub\C#\LambdaExample\DelegateExample\obj\Debug\DelegateExample.exe
+C:\KCGitHub\C#\LambdaExample\DelegateExample\obj\Debug\DelegateExample.pdb
+C:\KCGitHub\C#\LambdaExample\DelegateExample\obj\Debug\DelegateExample.csprojResolveAssemblyReference.cache

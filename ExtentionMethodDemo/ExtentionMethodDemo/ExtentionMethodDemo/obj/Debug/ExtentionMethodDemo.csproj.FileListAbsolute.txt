@@ -1,0 +1,6 @@
+C:\KCGitHub\C#\ExtentionMethodDemo\ExtentionMethodDemo\ExtentionMethodDemo\bin\Debug\ExtentionMethodDemo.exe.config
+C:\KCGitHub\C#\ExtentionMethodDemo\ExtentionMethodDemo\ExtentionMethodDemo\obj\Debug\ExtentionMethodDemo.csprojResolveAssemblyReference.cache
+C:\KCGitHub\C#\ExtentionMethodDemo\ExtentionMethodDemo\ExtentionMethodDemo\bin\Debug\ExtentionMethodDemo.exe
+C:\KCGitHub\C#\ExtentionMethodDemo\ExtentionMethodDemo\ExtentionMethodDemo\bin\Debug\ExtentionMethodDemo.pdb
+C:\KCGitHub\C#\ExtentionMethodDemo\ExtentionMethodDemo\ExtentionMethodDemo\obj\Debug\ExtentionMethodDemo.exe
+C:\KCGitHub\C#\ExtentionMethodDemo\ExtentionMethodDemo\ExtentionMethodDemo\obj\Debug\ExtentionMethodDemo.pdb

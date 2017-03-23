@@ -1,0 +1,6 @@
+C:\KCGitHub\C#\LambdaExample\LambdaExample\bin\Debug\LambdaExample.exe.config
+C:\KCGitHub\C#\LambdaExample\LambdaExample\bin\Debug\LambdaExample.exe
+C:\KCGitHub\C#\LambdaExample\LambdaExample\bin\Debug\LambdaExample.pdb
+C:\KCGitHub\C#\LambdaExample\LambdaExample\obj\Debug\LambdaExample.csprojResolveAssemblyReference.cache
+C:\KCGitHub\C#\LambdaExample\LambdaExample\obj\Debug\LambdaExample.exe
+C:\KCGitHub\C#\LambdaExample\LambdaExample\obj\Debug\LambdaExample.pdb
