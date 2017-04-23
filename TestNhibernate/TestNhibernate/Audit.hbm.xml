@@ -1,0 +1,17 @@
+﻿<?xml version="1.0"?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+                   assembly="TestNhibernate"
+                   namespace="TestNhibernate">
+    <class name="Audit" table="[USPaymentGateway].[Audit]">
+        <id name="ID" column="AuditID">
+            <generator class="native" />
+        </id>
+        <property name="UniqueID" column="UniqueID" />
+        <property name="Type" column="Type" />
+        <property name="Username" column="Username" />
+        <property name="Description" column="Description" />
+        <property name="Message" column="Message" />
+        <property name="CreatedDateUTC" column="CreatedDateUTC" />
+    </class>
+</hibernate-mapping>
+

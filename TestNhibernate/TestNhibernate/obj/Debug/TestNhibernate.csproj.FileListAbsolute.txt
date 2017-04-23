@@ -1,0 +1,11 @@
+C:\KCGitHub\TestNhibernate\TestNhibernate\bin\Debug\TestNhibernate.exe
+C:\KCGitHub\TestNhibernate\TestNhibernate\bin\Debug\TestNhibernate.pdb
+C:\KCGitHub\TestNhibernate\TestNhibernate\bin\Debug\Iesi.Collections.dll
+C:\KCGitHub\TestNhibernate\TestNhibernate\bin\Debug\NHibernate.dll
+C:\KCGitHub\TestNhibernate\TestNhibernate\bin\Debug\Iesi.Collections.xml
+C:\KCGitHub\TestNhibernate\TestNhibernate\bin\Debug\NHibernate.xml
+C:\KCGitHub\TestNhibernate\TestNhibernate\obj\Debug\TestNhibernate.csprojResolveAssemblyReference.cache
+C:\KCGitHub\TestNhibernate\TestNhibernate\obj\Debug\TestNhibernate.exe
+C:\KCGitHub\TestNhibernate\TestNhibernate\obj\Debug\TestNhibernate.pdb
+C:\KCGitHub\TestNhibernate\TestNhibernate\bin\Debug\Audit.hbm.xml
+C:\KCGitHub\TestNhibernate\TestNhibernate\bin\Debug\hibernate.cfg.xml
